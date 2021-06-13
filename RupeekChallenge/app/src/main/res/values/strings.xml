@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RupeekChallenge</string>
+    <string name="home_activity_title">Home</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDJAGvcqqhbBtL85j5GnKOHHVH9X35s4AE</string>
+</resources>
